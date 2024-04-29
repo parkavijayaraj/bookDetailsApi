@@ -1,0 +1,29 @@
+.container{
+    padding-top: 15px;
+    padding-bottom: 15px;
+background-color: rgb(199, 197, 214);
+}
+.card{
+    color:rgb(228, 204, 204) !important;
+    border-radius: 10px !important;
+    background-image: linear-gradient(to top,rgb(75, 139, 78),rgb(67, 122, 153));
+    margin-bottom: 10px !important;
+}
+.card-title{
+    color: black !important;
+}
+
+.card-body{
+    padding-bottom: 5px  !important;
+    display: flex;
+    flex-direction: column;
+    line-height: 60px;
+    align-items: center;
+}
+.col-sm-6{
+    margin-top: 1em !important;
+}
+.tittle{
+    background-image: linear-gradient(to top,rgb(75, 139, 78),rgb(67, 122, 153));
+    color:rgb(8, 1, 8);
+}
